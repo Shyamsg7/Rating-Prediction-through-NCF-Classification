@@ -8,7 +8,8 @@ This code is highly inspired by this https://github.com/yihong-chen/neural-colla
 
 This model is sligthly altered to perform rating prediction through classification setting by addding a classification layer at the end of original architecture.
 
-Usage
+##Usage
+
 cd src ( Move to the src folder which consists of the whole code)
 
 python3 train.py (download the necessary requirements if there is any thing to be installed)
